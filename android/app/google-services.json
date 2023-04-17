@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "289685998459",
+    "project_id": "fir-ghodarzi",
+    "storage_bucket": "fir-ghodarzi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289685998459:android:d78033c18acbf9425e4bde",
+        "android_client_info": {
+          "package_name": "com.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289685998459-ifd7usc9qtftug94m7vhgmdf1v2fo5jc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaQQ80NVc7lF9Zk_4NfFdfmMmyHFx3FO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289685998459-ifd7usc9qtftug94m7vhgmdf1v2fo5jc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
